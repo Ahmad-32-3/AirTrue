@@ -1,0 +1,7 @@
+data/
+*.csv
+__pycache__/
+.venv/
+.env
+web/node_modules/
+web/dist/
